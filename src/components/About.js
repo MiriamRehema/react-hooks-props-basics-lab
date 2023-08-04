@@ -7,6 +7,7 @@ function About() {
       <p>Put the bio in here</p>
       <img src="https://i.imgur.com/mV8PQxj.gif" alt="I made this" />
       {/* add your <Links /> component here */}
+      <Links/>
     </div>
   );
 }
